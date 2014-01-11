@@ -23,3 +23,6 @@ Usage
     $rbfi->saveImage("c:\\\\cropped", "png");         //Saves cropped image; available formats: png,gif,jpg
     $rbfi->showImage();                               //Sends cropped picture to browser
     $cropped = $rbfi->getImage();                     //Returns gd2 internal format image
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pawelantczak/crop-border-from-image/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
